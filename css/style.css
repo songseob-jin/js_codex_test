@@ -32,3 +32,22 @@ body {
     color: #2563eb;
     text-decoration: none;
   }
+  
+  .fav-btn {
+    background: #fde047;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  .fav-btn:hover {
+    background: #facc15;
+  }
+  
+  #showFavoritesBtn {
+    margin-bottom: 15px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
