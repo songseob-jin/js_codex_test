@@ -6,15 +6,24 @@
     "region": "전국",
     "target": "소상공인",
     "deadline": "2026-03-30",
-    "url": "https://example.go.kr/notice/1"
+    "url": "https://www.bizinfo.go.kr"
   },
   {
     "id": 2,
     "title": "부산 창업 초기기업 지원사업",
-    "agency": "부산시",
+    "agency": "부산광역시",
     "region": "부산",
     "target": "창업 3년 이내",
     "deadline": "2026-04-10",
-    "url": "https://example.go.kr/notice/2"
+    "url": "https://www.k-startup.go.kr"
+  },
+  {
+    "id": 3,
+    "title": "AI 스타트업 기술사업화 지원사업",
+    "agency": "과학기술정보통신부",
+    "region": "전국",
+    "target": "스타트업",
+    "deadline": "2026-05-05",
+    "url": "https://www.ntis.go.kr"
   }
 ]
